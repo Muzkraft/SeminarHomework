@@ -51,18 +51,6 @@ else
 /*
 Console.WriteLine("Введите число: ");
 int N = int.Parse(Console.ReadLine());
-int num = 1;
-
-while (num < N)
-{
-    if (num % 2 == 0)
-    {
-        Console.Write($"{n", num);
-    }
-}*/
-
-Console.WriteLine("Введите число: ");
-int N = int.Parse(Console.ReadLine());
 
 for (int i = 0; i <= N; i++)
 {
@@ -71,3 +59,4 @@ for (int i = 0; i <= N; i++)
         Console.Write("{0} ", i);
     }
 }
+*/
