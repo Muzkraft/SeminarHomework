@@ -1,19 +1,22 @@
 ﻿// Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
-/*
+
 Console.Write("Введите число A: ");
 int A = int.Parse(Console.ReadLine()!);
 Console.Write("Введите число B: ");
 int B = int.Parse(Console.ReadLine()!);
-double result = 0;
+double result = 1;
 Console.Write($"Натуральная степень числа {A} = {Stepen(result)}");
 
 double Stepen(double result)
 {
-    
-    result = Math.Pow(A, B);
+    for (int i = 1; i <= B; i++)
+    {
+        result *= A;
+
+    }
     return result;
 }
-*/
+
 // Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 /*
 Console.Write("Введите число : ");
@@ -33,7 +36,7 @@ int GetSum(int Sum)
 */
 
 // Задача 29: Напишите программу, которая задаёт массив из 8 рандомных элементов и выводит их на экран.
-
+/*
 int[] array =  RandomArray();
 Console.WriteLine($"[{String.Join(",", array)}]");
 
@@ -46,3 +49,4 @@ int[] RandomArray()
     }
     return array;
 }
+*/
