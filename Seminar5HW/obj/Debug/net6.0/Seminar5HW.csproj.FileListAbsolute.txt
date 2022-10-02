@@ -1,0 +1,15 @@
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.csproj.AssemblyReference.cache
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.AssemblyInfoInputs.cache
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.AssemblyInfo.cs
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.csproj.CoreCompileInputs.cache
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\bin\Debug\net6.0\Seminar5HW.exe
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\bin\Debug\net6.0\Seminar5HW.deps.json
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\bin\Debug\net6.0\Seminar5HW.runtimeconfig.json
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\bin\Debug\net6.0\Seminar5HW.dll
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\bin\Debug\net6.0\Seminar5HW.pdb
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.dll
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\refint\Seminar5HW.dll
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.pdb
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\Seminar5HW.genruntimeconfig.cache
+C:\Users\no1z5\Desktop\Education\C-_projects\SeminarHomework\Seminar5HW\obj\Debug\net6.0\ref\Seminar5HW.dll
